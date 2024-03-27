@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>主页</title>
+    <link>https://xuanzhichen.github.io/zh/</link>
+    <description>Recent content on 主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language><atom:link href="https://xuanzhichen.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客</title>
+      <link>https://xuanzhichen.github.io/zh/blogs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xuanzhichen.github.io/zh/blogs/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements. Sample article showcasing basic Markdown syntax and formatting for HTML elements. Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+01 DMIR Sample article showcasing basic Markdown syntax and formatting for HTML elements.Sample article showcasing basic Markdown syntax and formatting for HTML elements.Sample article showcasing basic Markdown syntax and formatting for HTML elements.02 DMIR Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    
+    <item>
+      <title>工作</title>
+      <link>https://xuanzhichen.github.io/zh/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xuanzhichen.github.io/zh/work/</guid>
+      <description>项目介绍 2021年9月 – 至今 Nonlinear Causal Discovery from Potential Confounding (科研课题)
+从含有潜在混淆的原始数据中发现因果关系
+因果发现 (Causal discovery)，即以因果图 (causal graphs) 的形式粗略地恢复 (recover) 数据的生成机制，是一门从观测性静态数据中发现因果蕴意的新兴的学科。
+在实践中，往往只有一个相对于合理数据集的变量的子集被观测到，导致了由这些隐变量 (latent variables) 的引起的潜在混淆 (potential confounding); 与此同时，由于变量之间一般的非线性相互作用，在线性情况下行之有效的因果约束 (causality constraints) 准则将面临阻碍。
+详见本页面 Papers.2023 的 &amp;ldquo;Non-linear Causal Discovery for Additive Noise Model with Multiple Latent Confounders&amp;rdquo;.
+2023年7月 – 2024年2月 A Brief Introductory for Causal Diagram Learning (科普工作)
+关于如何学习因果图的简介
+在该简介中，我尝试将 反事实 (counterfactuals) 和干预 (intervention) 的概念 (人类因果思维的范式) 引入关于重大问题因果关系分析的两个 (简化) 应用中：例如全球气候变化和新冠肺炎。
+介绍给定一个因果图的 “下游” 作用，并回溯性地介绍 “上游” 任务，即 “因果发现” : 关注如何学习一个特定的因果图。
+详见本页面 Papers.</description>
+    </item>
+    
+    <item>
+      <title>经历</title>
+      <link>https://xuanzhichen.github.io/zh/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xuanzhichen.github.io/zh/experience/</guid>
+      <description>2024年3月 &amp;ndash; 至今 注: 这段时间我主要在准备托福和 GRE 考试; 我目前也正在联系以寻求能够从今年夏天（我毕业的时候）开始的计算神经科学方向的实习（可大于 6 个月）。
+2023年7月 &amp;ndash; 2024年2月 在离开 DMIR 实验室后，我想根据我在“因果结构发现”方面的研究经验完成一项额外的工作——写一本带有直觉化图例的、关于如何学习潜在的因果结构的 “入门小册子”。
+我所完成的工作受到了因果结构发现方面专业书籍的启发(例如：《Causation, Prediction, and Search》(Peter Spirtes, Clark Glymour, 2001), 《Causality》(Judea Pearl, 2008) 以及 《Elements of Causal Inference》(Jonas Peters, Bernhard Schölkopf, 2017))。
+我希望这本小册子也能或多或少地起到抛砖引玉的作用——因为我最初正是因为受因果科普书籍的激励，而毅然决定投入 DMIR 实验室里和因果人工智能相关的研究。
+2021年9月 &amp;ndash; 2023年9月 数据挖掘与信息检索实验室（DMIR 实验室）科研助理实习 (导师: 陈薇，蔡瑞初 )
+大二学年伊始，我加入了蔡瑞初教授的人工智能实验室（实验室部分地参与国家重点研发项目 “因果推理与决策理论”）。
+在阅读了由图灵奖得主、认知系统实验室 (Cognitive Systems Laboratory) 主任 Judea Pearl 教授写的科普书 (《为什么》一书) 后，我立刻发掘了自己对因果科学的热情。具体地，我对于如何发现 (Discover) 原始数据背后所蕴含的 “因果结构 (Causal Structure) ” 感到好奇。具体地，我通过研究（特定的）理论开发了一套“混合型”的算法。在对于功能性磁共振成像（fMRI）大脑数据的应用层面上，我们的发现 凸显了大脑区域结构之间的非线性交互关系可以在假定脑区函数的非线性（数学意义上的因果不对称性）的情况下，利用统计方法 (例如概率图模型) 来进行因果推断。</description>
+    </item>
+    
+    <item>
+      <title>致谢</title>
+      <link>https://xuanzhichen.github.io/zh/acknowledgements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xuanzhichen.github.io/zh/acknowledgements/</guid>
+      <description>我最感激的是我的家人至始而终对我的理解和支持。感谢我的父母，陈轶鹏和林春华，感谢他们对我无限的爱意与容忍。他们正是那般 “总希望能把最好的留给孩子” 的伟大父母，为我未来的人生发展倾尽了心血。我想告诉他们 “我很爱你们”，我无比珍惜那些能够在他们的余生中每一次相伴的机会。
+感谢我可爱的妹妹 TTon (陈思彤)，时常给我单调的生活带来快乐和幽默，以及其他在这里我没有如一列举的亲朋好友们 —— 我总是感谢他们对我常相伴的善意。
+感谢 Eureka 主题 对本个人网站的渲染。
+2024 年 殷家君 广州得学自习室管理负责人 大四的时候我一直在寻找一间付费自习室，总担心遇到一些出于利益目的的不公平交易。因而幸运的是，我要感谢所遇到的殷女士，她特别的善意和真诚的努力为来者提供了舒适的学习空间。
+事实上，关于我那篇 “因果图学习入门手册” 的写作，其绝大部分便是在那时用数月的时间完成的 —— 伴随我的是一台笔记本，数不清的咖啡，以及它所提供给我的舒适的习作环境。
+陈薇 我的本科期间的导师 深切地感激我的导师、直系师姐陈薇。在繁忙的毕业季里，我本很可能无法坚持完成关于那段 “因果图学习入门手册” 的写作 —— 但我一直记着两年前当我最开始跟着她研究因果关系时，当我花了数个月时间都看不懂一篇因果推断的全英论文时， 她对我的那句鼓励：“一步一步慢慢来，只要有你自己的节奏就好”。
+2023 年 蔡瑞初 数据挖掘与信息检索实验室主任 永远感激蔡老师在我离开 DMIR 实验室之前通过一个故事的寓意教我如何去精进我的科研之路 —— 即一个发生在公交车上的故事: 如果你发现一个恶霸占着空座位，你应该和其争夺座位的使用权吗? —— 应该。
+直到我准备毕业并且真正需要独当一面地为自己将来的职业奋斗时，我才明白这个故事的含义: 空有让座的助人为乐的美德是不够的; 只有当我们也 “占有” 了座位，我们才能真正地表达自己的善意，并且有权把座位让给有需要的人。
+2022 年 杨文新 广东工业大学计算机学院团委书记 虽然转专业意味着我将面临孤注一掷和重新开始的准备 (资格考试)，但杨书记不仅帮助我更好地跟上了节奏，而且在暑期校内实习和国外学院申请等方面给了我很大的支持。
+刘冬宁 广东工业大学计算机学院副院长 非常感谢刘院，他乐意于亲自了解我的背景情况 (在我跨专业期间)，也不只根据考试成绩来评估学生的能力；每当我去他的办公室找他交流时，他总是慷慨地和我谈聊如何去规划自己的大学生涯。
+他曾告诉我，“近四十岁以后（像他当时的年龄），人生的路很难再看得清；但学术生涯还是要尽量规划好每一步 (尽管老是这样逼着自己想有些难受)” —— 有时我们觉得别人好像能够做得了很多出色的事情，但或许只是因为他们比我们懂得更早地规划，并且迈出第一步去做。
+2021 年 刘悦 广东工业大学建筑与城市规划学院团委书记 我必须感谢我在建筑与城市规划学院时，亲爱的辅导员刘悦。她非常尊重和理解我作出转到计算机专业的决定，并鼓励我去选择我真正喜欢的东西；在我进入计算机学院后，她也不忘关心我的近况。</description>
+    </item>
+    
+  </channel>
+</rss>

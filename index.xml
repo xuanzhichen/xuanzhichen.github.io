@@ -184,7 +184,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xuanzhichen.github.io/acknowledgements/</guid>
-      <description>My deepest debt is owed to my family for their invariant understanding and support. To my parents, Yipeng Chen (陈轶鹏) and Chuhua Lin (林春华), for their endless love and tolerance. They are the great parents who always left with the best for me, playing their crucial role in together paving the way for my future. I would like to say to them my inner love, and I incomparably treasure the time when I can still be with them in their rest of lives.</description>
+      <description>I own a great debt to my family first and foremost, for their invariant understanding and support.
+To my parents, Yipeng Chen (陈轶鹏) and Chuhua Lin (林春华), for their endless love and tolerance. They are the great parents who always left me with the best, playing their crucial role in paving the way for my future. I would like to say to them my inner love where I incomparably treasure the time when I can still be with them in the rest of their lives.</description>
     </item>
     
     <item>
@@ -198,13 +199,14 @@ I desire with all humility to acknowledge that, in fact, I owe the happiness of 
     </item>
     
     <item>
-      <title>Experience &amp; News</title>
+      <title>Experience</title>
       <link>https://xuanzhichen.github.io/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xuanzhichen.github.io/experience/</guid>
-      <description>Mar. 2024 - Note: I am mainly preparing for the TOFEL and GRE test during these period; I am also looking for reaching out internships (&amp;gt; 6 months) about computational neuroscience from this summer (upon my graduation).
-Aug. 2023 - Mar. 2024 After I left the DMIR lab, I spent time in writing a &amp;ldquo;special paper&amp;rdquo; on the topic of how to learn the causal diagram, also as a summary for my research experience on “causal discovery” over the last two years.</description>
+      <description>May. 2024 - Present Preparation for the 2024 Graduate AdmissionNote: I am mainly preparing for the TOFEL and GRE test during these period; I am also looking for reaching out internship opportunities (&amp;gt; 6 months) about computational neuroscience.
+Sep. 2023 - Apr. 2024 Personal Work about Popularization of Causal ScienceLocal Study Room in Guangzhou
+After I left the DMIR lab, I spent time in writing a &amp;ldquo;special paper&amp;rdquo; on the topic of how to learn the causal diagram, also as a summary for my research experience on “causal discovery” over the last two years.</description>
     </item>
     
     <item>
@@ -222,9 +224,8 @@ Aug. 2023 - Mar. 2024 After I left the DMIR lab, I spent time in writing a &amp;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xuanzhichen.github.io/work/</guid>
-      <description>Projects Introduction Aug. 2023 – Mar. 2024 A Primer on Causal Diagram Learning (Work for Popularization of Science and Technology)
-For details, also see the article &amp;lsquo;A Primer on Causal Diagram Learning: Interpreting Causation from the Causal Discovery Perspective&amp;rsquo; in Papers.2024 on this page.
-Since I was motivated by fundamental ideas of causality from a popular science book named &amp;lsquo;The Book of WHY&amp;rsquo;, I attempt to further create connections in the book to other celebrated books by leaders in causation, centering around subjects of &amp;ldquo;causal diagram learning&amp;rdquo;.</description>
+      <description>Projects Sep. 2023 – Apr. 2024 A Primer on Causal Diagram Learning (Popularization of Science and Technology)
+Since I was motivated by fundamental ideas of causality from a popular science book named &amp;lsquo;The Book of WHY&amp;rsquo;, I attempt to further create connections in the book to other celebrated books by leaders in causation, centering around subjects of &amp;ldquo;causal diagram learning&amp;rdquo;. I want to show that ideas of Causal Discovery are deeply rooted in the past by standing on the shoulders of these giants.</description>
     </item>
     
   </channel>

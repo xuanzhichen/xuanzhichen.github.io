@@ -27,14 +27,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xuanzhichen.github.io/zh/work/</guid>
-      <description>项目 2023. 09 – 2024. 04 A Primer on Causal Diagram Learning (科普工作)
+      <description>我的职业追求 —— 不管是求解工程问题还是发掘学术兴趣 —— 源自于脑科学本身 (brain science)，伴随着我（主要）倾向于 计算性 和 数学性 的科学求解理念。例如，诉诸于人工智能或机器学习，或许能够强化我们模拟和揭示复杂的神经能力 (neural capabilities); 基于理论数学 (或物理) 的建模也许能够让我们做到描述和简化特定的脑函数 (brian functions)。
+项目 2023. 09 – 2024. 04 A Primer on Causal Diagram Learning (科普工作)
 因为我是从一本名为《为什么》(The Book of WHY) 的科普书中获得因果关系的基本思想启发的，因而围绕着“因果图学习”的主题，我试图在这本书中进一步建立它与因果领域先驱们所著作的其他专业书籍的联系。
 我希望告诉我的读者们：当站上这些巨人的肩膀上时，我们将看到因果发现的思想是深深植根于过去的。当然,本文引入的因果图学习的思想仅是冰山一角，但我希望引领者们在因果科学领域的研究观点或许能对人工智能，认知神经科学，以及其他相关领域的未来发展有所裨益。
 相关论文(本页): “A Primer on Causal Diagram Learning: Interpreting Causation from the Causal Discovery Perspective, 2024.”
 2022.05 – 2023.06 Cadimulc: Light Python Package for Hybrid-Based Causal Discovery (软件开发)
-CADIMULC 意为 CAusal DIscovery with Multiple Latent Confounders（多隐变量下的因果关系发现）, 是一种提供基于混合模式因果发现的 Python 软件包。
-作为一款轻量级软件包，它提供了开箱即用的 Python 接口，以相对高效的方式从一般的原始数据中学习经验性因果结构。该软件包集成了混合型因果发现方法 (hybrid-based causal discovery approaches) 的实现（包括 MLC-LiNGAM 算法），以及因果发现任务的 “微型” 工作流——如数据生成，结果评估，和因果图可视化。
-2021.11 – 2023.06 Nonlinear Causal Discovery from Unknown Common Causes (科研课题)</description>
+CADIMULC 意为 CAusal DIscovery with Multiple Latent Confounders（多隐变量下的因果关系发现）, 是一种提供基于混合模式因果发现的 Python 软件包。</description>
     </item>
     
     <item>
@@ -43,12 +42,12 @@ CADIMULC 意为 CAusal DIscovery with Multiple Latent Confounders（多隐变量
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xuanzhichen.github.io/zh/experience/</guid>
-      <description>2024年3月 &amp;ndash; 至今 2024 研究生招生申请准备注: 这段时间我主要在准备托福和 GRE 考试; 目前也正在寻求关于计算神经科学方向的实习机会（可大于 6 个月）。2023年9月 &amp;ndash; 2024年4月 关于因果科学科普的个人工作广州当地自习室
+      <description>你们好呀！我目前是一名正在寻求神经科学方向 2025 年秋季研究型硕士或博士项目的本科生。我曾在实验室中参与了一段关于因果推理 (causal inference) 和人工智能交叉方向的科研实习， 并于今年夏天获得广东工业大学 (广州) 的计算机科学学士学位。
+2024年3月 &amp;ndash; 至今 2025 研究生招生申请准备注: 这段时间我主要在准备托福和 GRE 考试; 目前也正在寻求关于计算神经科学方向的实习机会（可大于 6 个月）。2023年9月 &amp;ndash; 2024年4月 关于因果科学科普的个人工作广州当地自习室
 离开 DMIR 实验室后，围绕着关于如何学习因果图 (causal diagram,) 这一主题，我花时间完成了一份特殊的论文写作（姑且这么称呼）；同时也以此作为过去两年里我对于因果发现 (causal discovery) 这一研究方向的经验总结。
 正如我当初是受到了因果科学的科普书籍《为什么》(The Book of WHY) 的鼓舞，在这份 “特殊的论文写作” 中，我也同样试着通过引入日常生活中关于因果关系的例子，来更加直觉化地阐述论文中的主题。 例如，有关反事实 (counterfactuals) 和干预 (intervention) 的概念阐述——人类因果思维的范式——被我引入到因果图在两种(经过简化后的)重大问题的应用中：诸如全球变暖和新冠肺炎事件。
 屏幕和笔记显示的是我正在试图理解“因果间接效应(causal indirected effect, CID)”。之所以选择这个写作时刻作为纪念，是因为 CID 实际上是《为什么》中的一个典型概念。我第一次读这本书的时并不能很好地理解它，但让我高兴的是，在参与了专业研究之后，我现在有机会根据自己在因果科学方面的经验来回顾这个有趣的概念。
-具体的，我所完成的工作受到了因果发现领域专业书籍的启发 (例如：Causation, Prediction, and Search [2001] (Peter Spirtes, Clark Glymour); Causality [2008] (Judea Pearl); Elements of Causal Inference [2017] (Jonas Peters, Bernhard Schölkopf, etc))。 因此，我希望能对因果图学习这一领域提供一些抛砖引玉的认识——了解既定因果图的“下游”能力，以及回溯性展望如何学习因果图这一“上游”任务——这是“因果发现”最基本的动机。
-2021年9月 &amp;ndash; 2023年9月 非线性因果推断科研实习 | 广州数据挖掘与信息检索实验室 (导师: 陈薇，蔡瑞初 )</description>
+具体的，我所完成的工作受到了因果发现领域专业书籍的启发 (例如：Causation, Prediction, and Search [2001] (Peter Spirtes, Clark Glymour); Causality [2008] (Judea Pearl); Elements of Causal Inference [2017] (Jonas Peters, Bernhard Schölkopf, etc))。 因此，我希望能对因果图学习这一领域提供一些抛砖引玉的认识——了解既定因果图的“下游”能力，以及回溯性展望如何学习因果图这一“上游”任务——这是“因果发现”最基本的动机。</description>
     </item>
     
     <item>

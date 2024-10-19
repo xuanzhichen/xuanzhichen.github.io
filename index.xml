@@ -194,7 +194,7 @@
       
       <guid>https://xuanzhichen.github.io/acknowledgements/</guid>
       <description>I own a great debt to my family first and foremost, for their invariant understanding and support.
-To my parents, Yipeng Chen (陈轶鹏) and Chuhua Lin (林春华), for their endless love and tolerance. They are the great parents who always left me with the best, playing their crucial role in paving the way for my future. I would like to say to them my inner love where I incomparably treasure the time when I can still be with them in the rest of their lives.</description>
+To my parents, Yipeng Chen (陈轶鹏) and Chuhua Lin (林春华), for their endless love and tolerance. They are the great parents who always left me with the best, playing their crucial role in paving the way for my future. I would also like to say to them my inner love where I incomparably treasure the time that I can still be with them in the rest of their lives.</description>
     </item>
     
     <item>
@@ -208,13 +208,13 @@ I desire with all humility to acknowledge that, in fact, I owe the happiness of 
     </item>
     
     <item>
-      <title>Experience</title>
+      <title>Experiences</title>
       <link>https://xuanzhichen.github.io/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xuanzhichen.github.io/experience/</guid>
-      <description>Hi there! I am an undergraduate student who are currently seeking for engaging a MS or PhD program as to neuroscience in fall, 2025. I received a BS in computer science this summer from GDUT (Guangdong University of Technology, Guangzhou) where I have experienced a two-year research internship in a lab that focus on the interface between Causal Inference and Artificial Intelligence.
-May. 2024 - Present Preparation for the 2025 Graduate AdmissionNote: I am mainly preparing for the TOFEL and GRE test during these period; I am also looking for reaching out internship opportunities (&amp;gt; 6 months) about computational neuroscience.</description>
+      <description>I received a BEng in Computer Science and Technology in 2024 from GDUT (Guangdong University of Technology, Guangzhou) where I experienced a two-year research internship in the DMIR lab (Data Mining and Information Retrieval) that focus on the interface between Causal Inference and Artificial Intelligence.
+Reminder: For I would only document things as to my career path unfolded step by step, my experiences directly pertain to my work; I have been always gratitude to these nice people along my career trajectory.</description>
     </item>
     
     <item>
@@ -232,8 +232,10 @@ May. 2024 - Present Preparation for the 2025 Graduate AdmissionNote: I am mainl
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xuanzhichen.github.io/work/</guid>
-      <description>My career pursuit — solving engineering problems and digging in research interest — has its roots in brain science, with the primary scientific ideation I incline to be both computational and mathematical. For example, resorting to artificial intelligence or machine learning might enhance our ability to simulate and unravel complex neural capabilities; modelling based on theoretical maths (or physics) might allow us to better describe and simplify specific brian functions.
-Projects Sep. 2023 – Apr. 2024 A Primer on Causal Diagram Learning (Popularization of Science and Technology)</description>
+      <description>My academic interest in particular rests in machine intelligence, computational data analysis, and information technology. In the future, I may also be interested in addressing commercial and financial problems in industries by drawing inspiration from computer science and applied mathematics.
+Remainder: Part of work is also tied to paper publishment that refers to &amp;ldquo;Academic Papers&amp;rdquo; on this page.
+Sample Slides of My Undergrad Work Intro: Put your pdf converted from the PPT collection
+The following pieces involve testing contents and please ignore.</description>
     </item>
     
   </channel>

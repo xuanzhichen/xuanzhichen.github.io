@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xuanzhichen.github.io/zh/cv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xuanzhichen.github.io/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xuanzhichen.github.io/zh/cv/"
+                />
+  </url><url>
+    <loc>https://xuanzhichen.github.io/zh/experience/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xuanzhichen.github.io/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xuanzhichen.github.io/zh/experience/"
+                />
+  </url><url>
+    <loc>https://xuanzhichen.github.io/zh/work/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xuanzhichen.github.io/work/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xuanzhichen.github.io/zh/work/"
+                />
+  </url><url>
     <loc>https://xuanzhichen.github.io/zh/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -60,30 +96,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://xuanzhichen.github.io/zh/blogs/"
-                />
-  </url><url>
-    <loc>https://xuanzhichen.github.io/zh/work/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xuanzhichen.github.io/work/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xuanzhichen.github.io/zh/work/"
-                />
-  </url><url>
-    <loc>https://xuanzhichen.github.io/zh/experience/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xuanzhichen.github.io/experience/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xuanzhichen.github.io/zh/experience/"
                 />
   </url><url>
     <loc>https://xuanzhichen.github.io/zh/acknowledgements/</loc>

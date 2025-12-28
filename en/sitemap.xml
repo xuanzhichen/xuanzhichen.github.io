@@ -133,14 +133,6 @@
     <loc>https://xuanzhichen.github.io/temp/temp_posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xuanzhichen.github.io/googlef5c47d1f042037c2/</loc>
-  </url><url>
-    <loc>https://xuanzhichen.github.io/temp/posts/markdown-syntax-copy/</loc>
-  </url><url>
-    <loc>https://xuanzhichen.github.io/temp/posts/diagram-support/</loc>
-  </url><url>
-    <loc>https://xuanzhichen.github.io/temp/posts/markdown-syntax/</loc>
-  </url><url>
     <loc>https://xuanzhichen.github.io/acknowledgements/</loc>
     <xhtml:link
                 rel="alternate"
@@ -165,7 +157,17 @@
                 href="https://xuanzhichen.github.io/blogs/"
                 />
   </url><url>
-    <loc>https://xuanzhichen.github.io/temp/posts/</loc>
+    <loc>https://xuanzhichen.github.io/cv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xuanzhichen.github.io/zh/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xuanzhichen.github.io/cv/"
+                />
   </url><url>
     <loc>https://xuanzhichen.github.io/experience/</loc>
     <xhtml:link
@@ -178,6 +180,28 @@
                 hreflang="en"
                 href="https://xuanzhichen.github.io/experience/"
                 />
+  </url><url>
+    <loc>https://xuanzhichen.github.io/googlef5c47d1f042037c2/</loc>
+  </url><url>
+    <loc>https://xuanzhichen.github.io/work/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xuanzhichen.github.io/zh/work/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xuanzhichen.github.io/work/"
+                />
+  </url><url>
+    <loc>https://xuanzhichen.github.io/temp/posts/markdown-syntax-copy/</loc>
+  </url><url>
+    <loc>https://xuanzhichen.github.io/temp/posts/diagram-support/</loc>
+  </url><url>
+    <loc>https://xuanzhichen.github.io/temp/posts/markdown-syntax/</loc>
+  </url><url>
+    <loc>https://xuanzhichen.github.io/temp/posts/</loc>
   </url><url>
     <loc>https://xuanzhichen.github.io/temp/temp_posts/math-support/</loc>
   </url><url>
@@ -194,17 +218,5 @@
                 />
   </url><url>
     <loc>https://xuanzhichen.github.io/series/themes-guide/</loc>
-  </url><url>
-    <loc>https://xuanzhichen.github.io/work/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xuanzhichen.github.io/zh/work/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xuanzhichen.github.io/work/"
-                />
   </url>
 </urlset>
